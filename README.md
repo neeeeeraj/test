@@ -6,3 +6,7 @@
 * [nderstanding PE Structure, The Layman’s Way – Malware Analysis Part 2](https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/)
 * [A Journey Towards an Import Address Table (IAT) of an Executable File](https://tech-zealots.com/malware-analysis/journey-towards-import-address-table-of-an-executable-file/)
 * [Hooking Series PART I : Import Address Table Hooking](https://relearex.wordpress.com/2017/12/26/hooking-series-part-i-import-address-table-hooking/)
+* [PDF analysis](https://github.com/zbetcheckin/PDF_analysis)
+* [PDF analysis](https://github.com/zbetcheckin/PDF_analysis)
+* [Important analysis blogs](https://github.com/michalmalik/linux-re-101)
+* [Imprtant references](https://github.com/Kan1shka9)
