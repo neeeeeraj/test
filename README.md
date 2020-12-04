@@ -10,3 +10,4 @@
 * [PDF analysis](https://github.com/zbetcheckin/PDF_analysis)
 * [Important analysis blogs](https://github.com/michalmalik/linux-re-101)
 * [Imprtant references](https://github.com/Kan1shka9)
+* [ROP Chain Reading] (https://deepsec.net/docs/Slides/2016/Brace_Yourselves_-_%20Exploit_Automation_Is%20Coming_Andreas_Follner.pdf)
