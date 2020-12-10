@@ -11,3 +11,4 @@
 * [Important analysis blogs](https://github.com/michalmalik/linux-re-101)
 * [Imprtant references](https://github.com/Kan1shka9)
 * [ROP Chain Reading](https://deepsec.net/docs/Slides/2016/Brace_Yourselves_-_%20Exploit_Automation_Is%20Coming_Andreas_Follner.pdf)
+* [x86-64 stack frame layout](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
