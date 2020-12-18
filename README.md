@@ -17,3 +17,4 @@
 * [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg/blob/master/README.md)
 * [ROP](https://connormcgarr.github.io/ROP/)
 * [Dynamic encrption](http://phrack.org/issues/58/5.html)
+* [Exploit Alert](https://www.exploitalert.com/view-details.html?id=30557)
