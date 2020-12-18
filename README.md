@@ -14,3 +14,4 @@
 * [x86-64 stack frame layout](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64)
 * [ROP Readings](https://connormcgarr.github.io/ROP/) [link 2](https://github.com/Andy53/ERC.Xdbg) [link 3](https://ihack4falafel.github.io/ROPing-the-Stack/)
 * [Exploit Database papers](https://github.com/kingofthebeat/exploitdb-papers)
+* [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg/blob/master/README.md)
