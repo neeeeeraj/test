@@ -16,3 +16,4 @@
 * [Exploit Database papers](https://github.com/kingofthebeat/exploitdb-papers)
 * [ERC.Xdbg](https://github.com/Andy53/ERC.Xdbg/blob/master/README.md)
 * [ROP](https://connormcgarr.github.io/ROP/)
+* [Dynamic encrption](http://phrack.org/issues/58/5.html)
