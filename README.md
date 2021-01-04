@@ -20,4 +20,4 @@
 * [Exploit Alert](https://www.exploitalert.com/view-details.html?id=30557)
 ## PDF format study 
 * [Pdf format Study](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)
-* [Pdf security](https://www.google.com/search?client=ubuntu&hs=kYf&channel=fs&ei=TpfyX_LVH9KamgesuoQY&q=foxit+javascript+api\&oq=foxit+javascript+api\&gs_lcp=CgZwc3ktYWIQAzIFCAAQyQMyBggAEBYQHjoICAAQ6gIQjwE6BQgAEJECOggILhCxAxCDAToFCAAQsQM6AggAOgsILhCxAxDHARCjAjoICAAQsQMQgwE6BwgAEMkDEEM6BAgAEEM6CAgAELEDEJECOgUILhCxAzoKCAAQsQMQyQMQQzoHCAAQsQMQQzoKCAAQsQMQyQMQCjoECAAQCjoKCAAQsQMQgwEQQzoHCC4QsQMQQ1CVW1jxrwFg9q8BaA1wAXgAgAHcAYgBgSuSAQYwLjMxLjGYAQCgAQGqAQdnd3Mtd2l6sAEKwAEB&sclient=psy-ab&ved=0ahUKEwjytIeqtoHuAhVSjeYKHSwdAQMQ4dUDCAw&uact=5)
+* [Pdf security](https://raw.githubusercontent.com/trylab/PDF-Vulnerability-Research/master/HITB%20AMS%202020/Pwning-Adobe-Reader-Multiple-Times-with-Malformed-Strings-wp.pdf)
