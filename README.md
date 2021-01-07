@@ -18,6 +18,7 @@
 * [ROP](https://connormcgarr.github.io/ROP/)
 * [Dynamic encrption](http://phrack.org/issues/58/5.html)
 * [Exploit Alert](https://www.exploitalert.com/view-details.html?id=30557)
+* [Malware Crawler](https://github.com/robbyFux/Ragpicker)
 ## PDF format study 
 * [Pdf format Study](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)
 * [Pdf security](https://raw.githubusercontent.com/trylab/PDF-Vulnerability-Research/master/HITB%20AMS%202020/Pwning-Adobe-Reader-Multiple-Times-with-Malformed-Strings-wp.pdf)
