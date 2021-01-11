@@ -21,6 +21,7 @@
 * [Malware Crawler](https://github.com/robbyFux/Ragpicker)
 * [Learn Typing](https://www.learntyping.org/beginner-typing-lesson-1a)
 * [jscript](https://github.com/FuzzySecurity/DotNetToJScript-LanguageModeBreakout)
+* [ret -sync ida ghidra plugin(debugger)](https://github.com/bootleg/ret-sync)
 ## PDF format study 
 * [Pdf format Study](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)
 * [Pdf security](https://raw.githubusercontent.com/trylab/PDF-Vulnerability-Research/master/HITB%20AMS%202020/Pwning-Adobe-Reader-Multiple-Times-with-Malformed-Strings-wp.pdf)
