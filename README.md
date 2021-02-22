@@ -25,3 +25,4 @@
 ## PDF format study 
 * [Pdf format Study](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)
 * [Pdf security](https://raw.githubusercontent.com/trylab/PDF-Vulnerability-Research/master/HITB%20AMS%202020/Pwning-Adobe-Reader-Multiple-Times-with-Malformed-Strings-wp.pdf)
+* [Previlege Escalation](https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/privilege-escalation/windows/windows.rst)
