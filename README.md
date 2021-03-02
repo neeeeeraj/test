@@ -31,3 +31,4 @@
 * [CS 97SI: Introduction to Programming Contests ](http://web.stanford.edu/class/cs97si/)
 * [Malware Hunting using systinternal tools](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DCIM-B368#fbid=)
 * [hacktrickz](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation#users-and-groups)
+* [Try Hack me Privilege esc](https://tryhackme.com/room/windowsprivescarena?__cf_chl_jschl_tk__=fb3158ad15984af823418ff16461bb7ea8e6ed00-1614680576-0-AYwGQzhPNsUc3wP8g5O5is5-4YRCQKa66FDiT4vj4wjDo0uCkE3plYg4ChbUHMKSCQb68UA_Yjs3puPHsZ61dw-9gY1t-5R3JCqLcyo1U7rNgkEzub5s3yyEKS4UQxZDWyRYdG8ClxIW8tYSZinsinT2zSCtdtzxml-fCregS-_tNdtN7eqrPRiOXNZDoGbPtD-mZlgUfrYZ-O9MCITZdnDn6SORQU5FOfqq4WDZvT6sFn7gV9v3LKlBSx-x1C4bpRsuDWhEu1TG5VYegFN8SM1VAJLCATgdRwpiiL1gYxSmWA63_DDBrbMGBxpP233LytWNchIM2rGQTwM4ietUhZ1wSEjPLOMWqLv3JAHP5LjIIu1chOVBQSsxAVijiY6huj9rZ9cHALAZ27rs1m52MUc)
