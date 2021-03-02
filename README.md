@@ -29,4 +29,5 @@
 * [What happens when i type get system](https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/)
 * [Privilege Escalation Unquoted service path](https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae)
 * [CS 97SI: Introduction to Programming Contests ](http://web.stanford.edu/class/cs97si/)
-* [](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DCIM-B368#fbid=)
+* [Malware Hunting using systinternal tools](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DCIM-B368#fbid=)
+* [hacktrickz](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation#users-and-groups)
