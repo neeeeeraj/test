@@ -35,3 +35,4 @@
 * [Prvilege Escalation](https://medium.com/@sushantkamble/windows-privilege-escalation-without-metasploit-9bad5fbb5666)
 * [Regular Expression](https://devblogs.microsoft.com/scripting/powershell-regex-crash-course-part-1-of-5/)
 * [Abusing Token Privileges For LPE](https://github.com/hatRiot/token-priv/blob/master/abusing_token_eop_1.0.txt)
+* [Finding Kernel32 Base and Function Addresses in Shellcode iredteam](https://www.ired.team/offensive-security/code-injection-process-injection/finding-kernel32-base-and-function-addresses-in-shellcode)
