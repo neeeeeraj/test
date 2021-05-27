@@ -37,3 +37,4 @@
 * [Abusing Token Privileges For LPE](https://github.com/hatRiot/token-priv/blob/master/abusing_token_eop_1.0.txt)
 * [Finding Kernel32 Base and Function Addresses in Shellcode -iredteam](https://www.ired.team/offensive-security/code-injection-process-injection/finding-kernel32-base-and-function-addresses-in-shellcode)
 * [Privilege Escalation Blog](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
+* [Reverse Engineering Tips ](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
