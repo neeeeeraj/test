@@ -38,3 +38,4 @@
 * [Finding Kernel32 Base and Function Addresses in Shellcode -iredteam](https://www.ired.team/offensive-security/code-injection-process-injection/finding-kernel32-base-and-function-addresses-in-shellcode)
 * [Privilege Escalation Blog](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
 * [Reverse Engineering Tips ](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
+* [Using assembly in c# codes](https://github.com/Trojaner/csharp-inline-assembly/blob/master/Program.cs)
