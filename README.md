@@ -39,3 +39,4 @@
 * [Privilege Escalation Blog](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
 * [Reverse Engineering Tips ](http://reverseengineeringtips.blogspot.com/2015/01/an-introduction-to-x64dbg.html)
 * [Using assembly in c# codes](https://github.com/Trojaner/csharp-inline-assembly/blob/master/Program.cs)
+* [function prolog and epilog](http://jdebp.info/FGA/function-perilogues.html)
