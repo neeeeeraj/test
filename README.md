@@ -41,3 +41,4 @@
 * [Using assembly in c# codes](https://github.com/Trojaner/csharp-inline-assembly/blob/master/Program.cs)
 * [function prolog and epilog](http://jdebp.info/FGA/function-perilogues.html)
 * [Sploitfun](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
+* [Anatomy of program in memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
