@@ -43,3 +43,4 @@
 * [Sploitfun](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 * [Anatomy of program in memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 * [Sourceware glibc](https://sourceware.org/glibc/wiki/MallocInternals%C2%A0#Malloc_Algorithm)
+* [Identifying bad character](https://www.ins1gn1a.com/identifying-bad-characters/)
