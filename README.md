@@ -52,3 +52,4 @@
 * [Backdooring PE Files with Shellcode](https://www.ired.team/offensive-security/code-injection-process-injection/backdooring-portable-executables-pe-with-shellcode)
 * [https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
 * [opular packers used in malware](https://resources.infosecinstitute.com/topic/top-13-popular-packers-used-in-malware/)
+* [Understanding PE Structure, The Layman’s Way – Malware Analysis Part 2](https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/)
