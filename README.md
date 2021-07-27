@@ -53,3 +53,4 @@
 * [https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
 * [opular packers used in malware](https://resources.infosecinstitute.com/topic/top-13-popular-packers-used-in-malware/)
 * [Understanding PE Structure, The Layman’s Way – Malware Analysis Part 2](https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/)
+* [OllyDbg tutorial](https://www.hackers-arise.com/post/2017/10/03/reverse-engineering-malware-part-5-ollydbg-basics)
